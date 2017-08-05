@@ -1,8 +1,7 @@
 /**
- * Created by JaMachine on 8/1/2017.
+ * 
  */
-public class Product implements Comparable<Product
-        >{
+public class Product implements Comparable<Product>{
     String name;
     Double price;
 
